@@ -1,0 +1,10 @@
+
+Слова из файла D:\TASKS JAVA\OOAP\laba_2\my_path\2.txt, которые есть в первом файле:
+МыЛ
+
+Слова из файла D:\TASKS JAVA\OOAP\laba_2\my_path\3.txt, которые есть в первом файле:
+TEST
+
+Слова из файла D:\TASKS JAVA\OOAP\laba_2\my_path\4.txt, которые есть в первом файле:
+мама
+раму
